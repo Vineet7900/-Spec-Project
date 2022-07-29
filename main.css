@@ -1,0 +1,187 @@
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bolder;
+    background-color: greenyellow;
+    height: 60px;
+    margin-top: 3px;
+    font-size: 60px;
+
+
+}
+
+.web_top{
+    background-color: bisque;
+    height: 40px;
+
+
+}
+
+.first_button{
+    position: relative;
+    border-radius: 15px;
+    left: 80%;
+    height: 40px;
+    width: 90px;
+    background-color: lightskyblue;
+
+}
+.first_button:hover{
+    background-color: red;
+}
+
+.second_button{
+    position: absolute;
+    border-radius: 15px;
+    left: 90%;
+    height: 40px;
+    width: 90px;
+    background-color: lightskyblue;
+}
+
+.second_button:hover{
+    background-color: red;
+}
+
+.top_bar{
+    overflow: hidden;
+  background-color: bisque;
+
+
+}
+
+.top_bar a {
+  float: left;
+  color: #cornflowerblue;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.top_bar a:hover {
+  background-color: rosybrown;
+  color: black;
+}
+
+.top_bar a.active {
+  background-color: rebeccapurple;
+  color: white;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  float: left;
+
+}
+
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.main_img{
+    margin-top: 0px;
+    margin-bottom: 15px;
+    margin-left: 215px;
+}
+
+.small_button{
+    float: left;
+    margin-top:34px;
+    border-radius: 10px;
+
+
+}
+
+.small_button:hover{
+    background-color: lightpink;
+
+}
+
+.text_top{
+    margin: 60px;
+    padding: 40px;
+    margin-top: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+.text_down{
+    font-size: 20px;
+    font-family: sans-serif;
+
+}
+
+.fieldset_1{
+    margin: 10px 110px 30px 110px;
+    float: left;
+    background-color: lightskyblue;
+    width: 300px;
+    height: 130px;
+
+}
+
+.fieldset_2{
+    margin: 10px 110px 30px 110px;
+    float: right;
+    background-color: lightskyblue;
+    width: 300px;
+    height: 130px;
+
+}
+
+ul{
+    font-family: serif;
+    font-weight: bolder;
+}
+
+ul li{
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+ol{
+    font-family: serif;
+    font-weight: bolder;
+
+}
+
+ol li{
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+.logo{
+    background-size: cover;
+    height: 100px;
+    margin-top: 25px;
+}
+
+
+
+footer p{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bolder;
+    text-decoration: underline;
+
+
+
+}
